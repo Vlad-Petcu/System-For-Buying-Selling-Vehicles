@@ -1,0 +1,2 @@
+# System-for-buying-selling-vehicles
+The application allows you to post ads for the sale of vehicles. The user who wants to sell needs to provide machine data, chassis series, number of kilometers traveled, year of manufacture, body type, make, and the selling price. The user who wants to buy a car, it is offered the following options: full list view, list filtering according to any attribute, view car list under a desired price. When the user selects a car, all the information about the car is displayed and he can buy it (at which point the ad will be deleted).
